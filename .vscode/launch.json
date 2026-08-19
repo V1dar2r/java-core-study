@@ -1,0 +1,46 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Intern",
+            "request": "launch",
+            "mainClass": "core.Intern",
+            "projectName": "javaStudy_65e0050f"
+        },
+        {
+            "type": "java",
+            "name": "stringDefine",
+            "request": "launch",
+            "mainClass": "core.stringDefine",
+            "projectName": "javaStudy_65e0050f"
+        },
+        {
+            "type": "java",
+            "name": "stringImmutable",
+            "request": "launch",
+            "mainClass": "core.stringImmutable",
+            "projectName": "javaStudy_65e0050f"
+        },
+        {
+            "type": "java",
+            "name": "joinedupNum",
+            "request": "launch",
+            "mainClass": "algorithm.level0.joinedupNum",
+            "projectName": "javaStudy_65e0050f"
+        },
+        {
+            "type": "java",
+            "name": "MulandAdd",
+            "request": "launch",
+            "mainClass": "algorithm.level0.MulandAdd",
+            "projectName": "javaStudy_65e0050f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
